@@ -49,3 +49,12 @@ Start the live server and watch for changes:
 
 ```sh
 npm run dev
+```
+
+### Build
+
+Build an bundle:
+
+```sh
+npm run build
+```
